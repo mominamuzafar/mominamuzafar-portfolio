@@ -1,0 +1,51 @@
+/* ---------- Base ---------- */
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  background: #0d1117;   /* dark */
+  color: #c9d1d9;        /* light text */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ---------- Layout ---------- */
+.container {
+  text-align: center;
+  padding: 24px;
+  max-width: 720px;
+}
+
+/* ---------- Typography ---------- */
+h1 {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  margin: 0 0 0.5rem 0;
+}
+
+p {
+  margin: 0;
+  opacity: 0.85;
+  font-size: 1.1rem;
+}
+
+/* ---------- Links ---------- */
+a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+/* ---------- Optional footer note ---------- */
+.footer {
+  position: fixed;
+  bottom: 12px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0.875rem;
+  opacity: 0.6;
+}
