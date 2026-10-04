@@ -1,4 +1,5 @@
-# Momina Muzafar - Portfolio
+# Momina Muzafar | Portfolio
 
-This repository will host my personal portfolio website showcasing my projects, resume, and case studies.  
-Coming soon!
+This repository hosts my personal portfolio website, showcasing my projects, resume, and case studies.
+
+Currently in progress.
